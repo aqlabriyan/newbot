@@ -1,0 +1,7 @@
+{
+  "name": "Aqla-Bot",
+  "description": "WhatsApp Bot Using WhatsApp Api Library Created By Aqlabriyan",
+  "repository": "https://github.com/aqlabriyan/Aqla-Bot",
+  "logo": "https://github.com/aqlabriyan/Aqla-Bot/blob/master/settings/aqla.jpg",
+  "keywords": ["Aqla", "Bot WhatsApp", "Heroku bot"]
+}
