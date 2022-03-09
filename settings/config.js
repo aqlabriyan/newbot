@@ -12,7 +12,7 @@ global.thumbnail = fs.readFileSync("./settings/aqla.jpg"); //sesuaikan dengan na
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg";
 global.lolkey = "RIFQIBOTZ"; //apikey
 global.limit = {
-  free: 20,
+  free: 200,
   premium: 1000,
 };
 global.session_name = "session.json";
